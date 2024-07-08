@@ -3,3 +3,4 @@ queso
 jamon
 pan
 aceitunas
+cerveza
