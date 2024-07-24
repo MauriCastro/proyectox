@@ -1,0 +1,26 @@
+h1{
+    color: brown;
+    background-color: bisque;
+    text-align: center;
+}
+h2{
+    color: goldenrod;
+    text-transform: uppercase;
+}
+h3{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.fuente{
+    color: darkblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#caja{
+    background-color: lightslategray;
+    width: 300px;
+    height: 200px;
+    border: 2px dashed black;
+    padding: 10px;
+    margin: 20px;
+}
