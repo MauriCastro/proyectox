@@ -1,0 +1,12 @@
+#caja{
+    width: 400px;
+    height: 400px;
+    /*background-color: yellow;*/
+    margin: 150px;
+    background: rgb(182,187,186);
+    background: linear-gradient(90deg, rgba(182,187,186,1) 7%, rgba(9,123,100,1) 46%, rgba(0,212,255,0.8736286751028537) 100%);
+    box-shadow: 50px -50px 40px black;
+       /*eje horrizontal- eje vertical - blur - color*/
+    border-radius: 0px 90px 90px 0px;
+    padding: 50px;
+}
