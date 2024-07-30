@@ -1,0 +1,47 @@
+.contenedor{
+    height: 240px;
+    width: 1680px;
+    border: 2px solid black;
+    background-color: white;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: space-between;
+   
+
+}
+.item1{
+    background-color: red;
+    height: 240px;
+    width: 240px;
+    text-align: center;
+    align-content: center;
+
+}
+.item2{
+    background-color: blue;
+    height: 240px;
+    width: 240px;
+    padding: 0 center;
+    text-align: center;
+    align-content: center;
+
+ 
+}
+.item3{
+    background-color: green ;
+    height: 240px;
+    width: 240px;
+    box-sizing: border-box;
+    text-align: center;
+    align-content: center;
+
+ 
+   
+}
+span{
+    color: white;
+    font-size: 30px;
+    
+
+
+}
