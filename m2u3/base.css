@@ -4,7 +4,7 @@ body {
 	font-size:100%;
 }
 #contenedor {
-	width: 800px;
+	
 	background: #8FA68E;
 	margin-right:auto;
 	margin-left:auto;
@@ -38,9 +38,8 @@ aside {
 @media screen and (max-width : 800px) {
     
        #contenedor{
-        position: absolute ; 
-        left : 0px;
-        top: 0px;
+        
+        width: 100%;
        }
         
        h1{
