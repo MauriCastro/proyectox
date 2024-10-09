@@ -1,0 +1,9 @@
+.area {
+    width: 40%;
+    border: solid rgb(48, 84, 137) 2px;
+    border-radius: 10px;
+}
+
+h1 {
+    padding-left: 30px;
+}
